@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Donghae</h1>
+<h1 align="center">Hello World 👋, I'm Donghae (Donavan)</h1>
 <h3 align="center">A Computer Scientist in Learning</h3>
 
 - 🔭 I’m currently working on improving my programming skills by practicing and going over data structures through LeetCode.
@@ -7,13 +7,13 @@
 
 - 🤝 I appreciate any tips and would love to collaborate with you!
 
-- 👨‍💻 All of my projects are available at... [TBC...](TBC)
+- 👨‍💻 All of my projects are available at... **[TBC...](TBC)**
 
 - 💬 Ask me about... **Anything technology!! I love to broaden my knowledge in all aspects. This is not limited to just computer science, but includes peripherals, hardware, video-editing, music production, and more !**
 
-- 📫 How to reach me... **donghae.d.yi@gmail.com**
+- 📫 How to reach me... **Email: donghae.d.yi@gmail.com**
 
-- 📄 Know about my experiences... [Resume.pdf](Resume.pdf)
+- 📄 Know about my experiences... **My [Résumé](Resume.pdf).**
 
 - ⚡ Fun fact... **I am a technophile who enjoys building computers, playing video games, and more!!!**
 
