@@ -1,7 +1,7 @@
 ![banner](banner.png)
 
 # Hello World 👋
-I'm Donghae (Donavan) from Colorado, and I am a student studying Computer Science. I am a technophile who enjoys building computers 🖥️, playing video games 🎮, as well as broadening my knowledge in all aspects. I'm open to conversations about all things technology (computer science ⚛️, peripherals 🎧, hardware ⌨️, video-editing 🖱️, music production 🎹, and more ➕)!!!
+I'm Donghae (Donavan) from Colorado, and I am a student studying Computer Science. I am a technophile who enjoys building computers 🖥️, video games 🎮, as well as broadening my knowledge in all aspects. I'm open to conversations about all things technology (computer science ⚛️, peripherals 🎧, hardware ⌨️, video-editing 🖱️, music production 🎹, and more ➕)!!!
 
 - 📄 Learn about my experiences on my **[résumé](résumé.pdf)**
 
