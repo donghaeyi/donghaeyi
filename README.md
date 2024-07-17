@@ -9,6 +9,7 @@ I'm Donghae (Donavan) from Colorado, and I am a student studying Computer Scienc
 - 👨‍💻 All of my projects are available **[here](https://github.com/donghaeyi?tab=repositories)**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cdr9eSnpycM" target="_blank"><img src="https://github.com/madisonpj/CSCI3308-Final-Project/assets/132002675/0082e827-dcbe-4411-8dfe-0988d24b7a73" alt="cdr9eSnpycM" width="280" height="140" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=znQGrmvTwKY" target="_blank"><img src="http://img.youtube.com/vi/znQGrmvTwKY/0.jpg" alt="znQGrmvTwKY" width="280" height="140" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=L2eqymUP2Lc" target="_blank"><img src="http://img.youtube.com/vi/L2eqymUP2Lc/0.jpg" alt="L2eqymUP2Lc" width="280" height="140" border="10" /></a>
 
 *[Rate My Courses](https://github.com/donghaeyi/Rate-My-Courses)*
