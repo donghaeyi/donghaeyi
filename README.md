@@ -1,7 +1,7 @@
 ![banner](banner.png)
 
-# Hello World 👋
-I'm Donghae (Donavan) from Colorado, and I am a student studying Computer Science. I am a technophile who enjoys building computers 🖥️, video games 🎮, as well as broadening my knowledge in all aspects. I'm open to conversations about all things technology (computer science ⚛️, peripherals 🎧, hardware ⌨️, video-editing 🖱️, music production 🎹, and more ➕)!!!
+# 👋 Hi, I'm Donghae (Donavan)
+—a bilingual Computer Science student passionate about software engineering, AI, cybersecurity, and building impactful solutions. I have hands-on experience with Python, Java, C++, full-stack development, and leveraging data science techniques. Always eager to collaborate, learn, and connect on projects related to software development, emerging tech, and innovation.
 
 - 📄 Learn about my experiences on my **[résumé](Resume.pdf)**
 
@@ -16,7 +16,7 @@ I'm Donghae (Donavan) from Colorado, and I am a student studying Computer Scienc
 
 <h3 align="left">Connect With Me</h3>
 
-- 🤝 I appreciate any tips and would love to collaborate with you !
+- 🤝 I welcome collaboration and opportunities to build impactful software—let's connect!
 - 📫 Business Inquiries: **donghae.d.yi@gmail.com**
 
 <p align="left">
